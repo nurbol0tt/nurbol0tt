@@ -38,3 +38,6 @@
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurbol0tt&hide_border=true&count_private=true&show_icons=true&theme=radical" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurbol0tt&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align = "center"/></p>
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=latand&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Latand" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=latand&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
