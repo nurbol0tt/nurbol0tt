@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/nura-t-811695228">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</br>
 
 ## Technology stack
 
@@ -31,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+<br/><br/><br/>
 
 ## Stats
 
